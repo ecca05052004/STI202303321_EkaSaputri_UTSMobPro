@@ -19,6 +19,5 @@ Navigasi dengan BottomNavigationBar (Home, Tambah, Galeri)
 
 Notifikasi dengan SnackBar dan animasi transisi halus
 
-🧰 Teknologi
+📸 Screenshot
 
-Flutter · Dart · image_picker · path_provider
