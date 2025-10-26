@@ -21,3 +21,9 @@ Notifikasi dengan SnackBar dan animasi transisi halus
 
 📸 Screenshot
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/home.jpg" alt="Home" width="30%"/>
+  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/add.jpg" alt="Tambah" width="30%"/>
+  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/gallery.jpg" alt="Galeri" width="30%"/>
+</p>
+
