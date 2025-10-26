@@ -22,8 +22,9 @@ Notifikasi dengan SnackBar dan animasi transisi halus
 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/home.png" alt="Home" width="30%"/>
-  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/add.png" alt="Tambah" width="30%"/>
-  <img src="https://raw.githubusercontent.com/ecca05052004/screenshot_app/main/prevew.png" alt="Galeri" width="30%"/>
+  
+  <img src="https://github.com/ecca05052004/STI202303321_EkaSaputri_UTSMobPro/tree/main/home.png" alt="Home" width="30%"/>
+  <img src="https://github.com/ecca05052004/STI202303321_EkaSaputri_UTSMobPro/tree/main/add.png" alt="Tambah" width="30%"/>
+  <img src="https://github.com/ecca05052004/STI202303321_EkaSaputri_UTSMobPro/tree/main/prevew.png" alt="Galeri" width="30%"/>
 </p>
 
